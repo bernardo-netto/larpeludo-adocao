@@ -21,6 +21,8 @@ Aqui, os visitantes podem conhecer os animais disponíveis, entender o propósit
 ---
 
 ## 📂 Estrutura do Projeto
+
+
 lar-peludo/
 │
 ├── index.html
