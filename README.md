@@ -14,15 +14,15 @@ Aqui, os visitantes podem conhecer os animais disponíveis, entender o propósit
 ---
 
 ## 🧱 Tecnologias Utilizadas
-- ⚙️ **HTML5**
-- 🎨 **CSS3**
-- 💡 **JavaScript (puro)**
+- ⚙️ **HTML5**  
+- 🎨 **CSS3**  
+- 💡 **JavaScript (puro)**  
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-
+```
 lar-peludo/
 │
 ├── index.html
@@ -30,28 +30,26 @@ lar-peludo/
 ├── adocao.html
 ├── contato.html
 │
-├── /css/
-│ ├── style.css
-│ ├── home.css
-│ ├── sobre.css
-│ ├── adocao.css
-│ └── contato.css
+├── css/
+│   ├── style.css
+│   ├── home.css
+│   ├── sobre.css
+│   ├── adocao.css
+│   └── contato.css
 │
-├── /js/
-│ ├── main.js
-│ ├── menu.js
-│ ├── formulario.js
-│ └── galeria.js
+├── js/
+│   ├── main.js
+│   ├── menu.js
+│   ├── formulario.js
+│   └── galeria.js
 │
-├── /assets/
-│ ├── /img/
-│ ├── /icons/
-│ └── /videos/
+├── assets/
+│   ├── img/
+│   ├── icons/
+│   └── videos/
 │
 └── README.md
-
-
-
+```
 
 ---
 
